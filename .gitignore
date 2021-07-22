@@ -3,3 +3,9 @@ node_modules/
 
 # Typescript
 dist/
+
+# IDE:s
+.vscode
+
+# MacOS
+.DS_Store
